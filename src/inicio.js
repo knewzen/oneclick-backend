@@ -1,0 +1,4 @@
+
+module.exports = [
+    {"attachment":
+        {"type":"template","payload":{"template_type":"generic","elements":[{"title":"Saiba sobre nosso banco Patrocinador","image_url":"https://empiricusimagens.s3.amazonaws.com/2016/04/crfinancas-180416-01.png","subtitle":"Banco Original","buttons":[{"type":"show_block","title":"Patrocinador","block_names":["Patrocinador"]}]},{"title":"Eventos","image_url":"http://cleofas.com.br/wp-content/uploads/2015/08/Calendario2014.jpg","subtitle":"Conferir os próximos shows","buttons":[{"type":"show_block","title":"Próximos shows","block_names":["Novos Shows"]}]},{"title":"Nada","image_url":"https://pbs.twimg.com/profile_images/793935137583067136/H_ccTrJL.jpg","subtitle":"No momento estou de boa","buttons":[{"type":"show_block","title":"No momento estou de boa","block_names":["Negative"]}]}]}}}]
